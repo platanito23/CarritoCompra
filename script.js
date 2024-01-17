@@ -34,3 +34,6 @@ function actualizarCarrito() {
         itemsCarrito.appendChild(div);
     });
 }
+
+alert("compra realizada, gracias por su visita");
+console.log(actualizarCarrito());
