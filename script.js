@@ -37,3 +37,4 @@ function actualizarCarrito() {
 
 alert("compra realizada, gracias por su visita");
 console.log(actualizarCarrito());
+console.log("fin de la transacción");
